@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasan Ahmad
 
-## I'm a Software Developer, Blockchain Developer and Third Year Software Engineering Student!
+## I'm a Software Developer, Blockchain Developer!
 
 <br />
 
@@ -14,7 +14,7 @@
 
 ### Around the web :
 
-[<img align="left" alt="Hasan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://facebook.com/HasanAlmukhtarr/)
+[<img align="left" alt="Hasan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://facebook.com/HasanAhmaddl/)
 [<img align="left" alt="Hasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/super_smadi)
 [<img align="left" alt="Hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hasan-ahmadl)
 

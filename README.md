@@ -3,9 +3,6 @@
 ## I'm a Software Developer, Blockchain Developer!
 
 <br />
-
-- 🔭 I’m currently pursuing a bachelor's degree in Software Engineering at Yarmouk Private University
-- 🌱 I’m currently learning blockchain development, smart contracts and cloud computing
 - 💬 Ask me about any questions related to Blockchain, Web Development, Algorithms and Data Structure, Design Patterns and Cloud Computing
 
 <br />

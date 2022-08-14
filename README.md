@@ -2,7 +2,7 @@
 ## I'm an Entrepreneur, Software Engineer, and Web Developer!
 
 <br />
- 💬 Ask me about any questions related to Blockchain, Web Development, Algorithms and Data Structure, Design Patterns and Cloud Computing
+ 💬 Ask me about any questions related to Software Engineering, Web Development, Algorithms and Data Structure, Design Patterns and Cloud Computing
 
 <br />
 <br />
